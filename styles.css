@@ -58,6 +58,13 @@ section {
   margin-bottom: 2rem;
 }
 
+.contenedor-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
 .card {
   background: white;
   padding: 1.5rem;
