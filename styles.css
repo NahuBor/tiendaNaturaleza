@@ -51,11 +51,11 @@ section {
 }
 
 /* Productos – Flexbox */
-.productos {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  justify-content: center;
+.titulo-productos {
+  text-align: center;
+  width: 100%;
+  font-size: 2rem;
+  margin-bottom: 2rem;
 }
 
 .card {
