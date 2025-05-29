@@ -128,6 +128,11 @@ footer {
     flex-direction: column;
   }
 
+.centrado {
+  display: flex;
+  justify-content: center;
+}
+
   .productos {
     flex-direction: column;
     align-items: center;
